@@ -8,3 +8,5 @@ echo "Githubdan guncelleme";
 echo "yeni guncelleme";
 
 echo "test 453532";
+
+echo "bu cpanelde gorunecekmi?";
