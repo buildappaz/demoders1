@@ -1,1 +1,3 @@
-hello index page dfg   
+<?php 
+
+echo "this is index page";
