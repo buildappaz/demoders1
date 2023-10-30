@@ -6,3 +6,5 @@ echo "yeni guncelleme oldu";
 echo "Githubdan guncelleme";
 
 echo "yeni guncelleme";
+
+echo "test 453532";
